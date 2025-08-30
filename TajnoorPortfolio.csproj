@@ -103,11 +103,9 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="index.html" />
-    <Content Include="Photos\background.png" />
+    <Content Include="Photos\Homepage.png" />
     <Content Include="Photos\logo.png" />
-    <Content Include="Photos\Profile.png" />
     <Content Include="Photos\user.jpg" />
-    <Content Include="Photos\user.png" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
